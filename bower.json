@@ -9,6 +9,6 @@
   ],
   "dependencies": {
     "singularity": "~>1.6.2",
-    "modular-scale": "~>2.0.7"
+    "modular-scale": "2.0.7"
   }
 }
